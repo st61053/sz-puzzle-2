@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/martin-web/static/css/main.e6c13ad2.css",
+    "main.js": "/martin-web/static/js/main.b0d867e3.js",
+    "static/js/787.9e0dedbf.chunk.js": "/martin-web/static/js/787.9e0dedbf.chunk.js",
+    "index.html": "/martin-web/index.html",
+    "main.e6c13ad2.css.map": "/martin-web/static/css/main.e6c13ad2.css.map",
+    "main.b0d867e3.js.map": "/martin-web/static/js/main.b0d867e3.js.map",
+    "787.9e0dedbf.chunk.js.map": "/martin-web/static/js/787.9e0dedbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0d867e3.js"
+  ]
+}

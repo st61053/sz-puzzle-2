@@ -1,5 +1,6 @@
 {
   "name": "sz-puzzles",
+  "homepage": "https://st61053.github.io/martin-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
